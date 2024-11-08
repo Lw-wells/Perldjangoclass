@@ -1,0 +1,3 @@
+[submodule "Perlclassdjango"]
+	path = Perlclassdjango
+	url = https://github.com/username/repo.git
